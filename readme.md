@@ -1,4 +1,4 @@
-# laravel-blog
+# LaravelBlog
 
 ## Installation
 
