@@ -2,7 +2,7 @@
 
 ## Installation
 
-git clone https://github.com/gantoo/laravel-blog.git projectname  
+git clone https://github.com/joelwei/LaravelBlog.git projectname  
 cd projectname  
 composer install  
 create a database and inform .env  
@@ -13,5 +13,3 @@ php artisan db:seed to populate tables
 default user ['ganto@qq.com' => '123456']  
 
 >redis or memcache cache is required.
-
->homestead is recommended.
